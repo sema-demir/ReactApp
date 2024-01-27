@@ -9,4 +9,5 @@ Easy-to-understand and user-friendly interface.
 
 <h4>Screenshot</h4>
 
+![](pokedex.gif)
 
